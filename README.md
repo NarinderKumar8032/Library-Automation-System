@@ -40,4 +40,4 @@ simplifying the process of managing library records.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/NarinderKumar8032/Library-Automation-System.git
