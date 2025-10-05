@@ -51,9 +51,9 @@ void greetings() {
     cout << "\t\t\t     *     ----------------------------     *\n";
     cout << "\t\t\t     *      WELCOME TO STUDENT LIBRARY      *\n";
     cout << "\t\t\t     *     ----------------------------     *\n";
-    cout << "\t\t\t     *       Faridabad,Haryana, India       *\n";
-    cout << "\t\t\t     *       Email: narinder4869@gmail.com  *\n";
-    cout << "\t\t\t     *       Contact: 9100000000            *\n";
+    cout << "\t\t\t     *       Mumbai,Maharashtra, India      *\n";
+    cout << "\t\t\t     *      Email: studentlib@gmail.com    *\n";
+    cout << "\t\t\t     *      Contact:8800991010, 8800992020 *\n";
     cout << "\t\t\t     ****************************************\n";
     cout << "\n\n\t\t\t           Press any key to continue: ";
     getch();
@@ -296,4 +296,5 @@ Book* add_book(string bookname, string authorname, int id) {
     }
     return start_lib;
 }
+
 
