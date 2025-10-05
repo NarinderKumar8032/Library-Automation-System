@@ -32,8 +32,8 @@ simplifying the process of managing library records.
 
 ## 🛠️ Technologies Used
 - **Language:** C++  
-- **Compiler:** GCC / MinGW / Turbo C++  
-- **IDE:** Code::Blocks / VS Code / Dev-C++  
+- **Compiler:** VS Code -MINGW  
+- **IDE:** Code::VS Code   
 
 ---
 
