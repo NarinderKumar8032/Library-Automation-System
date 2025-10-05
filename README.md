@@ -17,9 +17,6 @@ simplifying the process of managing library records.
 ### 📬 Book Return Example
 ![Book Return Screenshot](https://raw.githubusercontent.com/NarinderKumar8032/Library-Automation-System/main/images/book_return.png)
 
-> 📸 *Save your screenshots in an `images/` folder inside your repo and replace the above URLs with your actual GitHub paths.*
-
----
 
 ## ⚙️ Features
 - Issue books to students  
